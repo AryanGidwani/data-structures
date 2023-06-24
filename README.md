@@ -1,1 +1,1 @@
-Using simple LIFO and FIFO principles. the progran can add information to common data structures like stacks and queues. 
+Using simple LIFO and FIFO principles. the program can add information to common data structures like stacks and queues. Outside of adding information, it can also display all information in the data structure, along with returning information found at the top of a stack(display() and pop() methods). 
